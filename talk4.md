@@ -43,6 +43,8 @@ Chris Bolin @bolinchris
 ## Browser Fingerprinting
 - digital art as digital literacy: How the browser fingerprints you. 
 - makes a fingerprint from the details that your browser is giving up about you. 
-
+- use tech in new ways
+- don't limit yourself
+- use it in annoying ways
 
 
