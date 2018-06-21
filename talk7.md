@@ -25,3 +25,11 @@ Max @maxbittker
 - complicated math about it might not be interesting to you, but you don't need to understand it to use it
 - glslify is like browserify (a module system) for GLSL. 
 - now you're able to import files/functions and start using them. 
+- now it's easy to use, and it can all be stored in github and have versioning. 
+- glsl-y-rotate will help you rotate something across the y access
+- glsl-dither will help you dither and make 1bit art
+- glsl-raytrace makes a 3d shape as a math function
+- each module is small and grokkable. 
+
+- leveraging libraries help to teach and guide you. 
+- thebookofshaders.com
